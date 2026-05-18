@@ -1,8 +1,7 @@
-Currently a Ph.D. candidate in Applied Nuclear Physics at State University of Londrina (Brazil), my research focuses on the data of multimodal spectral datasets with exploratory data analysis and modern machine learning methods. The primary application domain is soil health and fertility assessment.
+Currently a Ph.D. candidate in Applied Nuclear Physics at State University of Londrina, my research focuses on the integration of multimodal spectral data, exploratory data analysis, and modern modeling techniques for soil health and fertility assessment. In parallel, I am also interested in Explainable Artificial Intelligence (XAI), particularly in the development of interpretation frameworks for spectral-based models aimed at improving the transparency, reliability, and reproducibility of machine learning applications in spectroscopy.
 
-I am currently undertaking an international research internship at the University of Trieste, where the objective is the development of Explainable Artificial Intelligence (XAI) frameworks tailored to spectral-based models. This work emphasizes the design and implementation of explainability tools that improve transparency, reliability, and reproducibility of machine learning applications.
+My broader interests include Machine Learning, Deep Learning, Chemometrics, Spectroscopy, and interdisciplinary research that combines physically grounded modeling with advanced computational intelligence approaches.
 
-I am particularly interested in Machine Learning, Deep Learning, and Spectroscopy, and I actively pursue interdisciplinary approaches that combine principled physical modeling with advanced computational intelligence techniques.
 
 ---
 
@@ -14,17 +13,6 @@ I am particularly interested in Machine Learning, Deep Learning, and Spectroscop
 - Doctoral Candidate in Applied Nuclear Physics — State University of Londrina (Brazil) — **ongoing**
 - Visiting Researcher — University of Trieste (Italy) — **ongoing**
 ---
-
-
-**Research Areas**
-
-- Data fusion of multimodal spectral data
-- Exploratory data analysis and feature engineering for spectral datasets
-- Chemometrics, Machine Learning and Deep Learning models for analyzing environmental samples
-- Explainable AI methods for interpreting black-box models based on spectral data
-
----
-
 
 **Languages & Tools**
 
