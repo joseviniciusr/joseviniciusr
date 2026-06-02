@@ -41,13 +41,11 @@ My broader interests include Machine Learning, Deep Learning, Chemometrics, Spec
 - vis-NIR
 - Gamma Spectrometry
 - Colorimetry
-- Soil Science
 - Machine Learning
 - Deep Learning
 - Explainable Artificial Intelligence
 - Chemometrics
 - Exploratory Analysis
-- Multivariate Calibration
 
 ---
 
