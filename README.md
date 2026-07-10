@@ -10,8 +10,8 @@ My broader interests include Machine Learning, Deep Learning, Chemometrics, Spec
 
 - Teaching Degree in Physics — State University of Londrina (Brazil), 2022
 - Master of Science in Applied Nuclear Physics — State University of Londrina (Brazil), 2024
+- Visiting Researcher — University of Trieste (Italy) from October 2025 to June 2026
 - Doctoral Candidate in Applied Nuclear Physics — State University of Londrina (Brazil) — **ongoing**
-- Visiting Researcher — University of Trieste (Italy) — **ongoing**
 ---
 
 **Languages & Tools**
